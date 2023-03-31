@@ -47,7 +47,7 @@ I am a Professional Web Developer. I am working with Laravel, PHP, Vue, React, R
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://en.wikipedia.org/wiki/HTML5#/media/File:HTML5_logo_and_wordmark.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>   
@@ -59,7 +59,7 @@ I am a Professional Web Developer. I am working with Laravel, PHP, Vue, React, R
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
@@ -125,7 +125,7 @@ I am a Professional Web Developer. I am working with Laravel, PHP, Vue, React, R
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
@@ -173,4 +173,4 @@ I am a Professional Web Developer. I am working with Laravel, PHP, Vue, React, R
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engr-ibrahim&show_icons=true&locale=en" alt="Mahmud Ibrahim"/ ></br></p> -->
    
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engr-ibrahim&" alt="Mahmud Ibrahim" /></p>
-<p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=engr-ibrahim&theme=react-dark&hide_border=true&area=true"/></p>
+<!-- <p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=engr-ibrahim&theme=react-dark&hide_border=true&area=true"/></p> -->
